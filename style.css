@@ -1,0 +1,44 @@
+body{
+  font-family: 'Indie Flower', cursive;
+  margin: 30px;
+  background-color:black;
+  text-align:center;
+  font-size: 25px
+}
+
+a{
+ color:aqua;
+}
+a:hover{
+ color:red;
+ background-color:grey;
+}
+
+ul{
+  text-align: left;
+  color:red;
+}
+
+p{
+  color:skyblue
+}
+  
+h1,h2,form{
+  color:red
+}
+
+form{
+  background-color:black;
+}
+
+h3{
+ color:aqua;
+}
+
+table{
+    color:blue;
+    background-color:black;
+    width:70%;
+    border-width: thick;
+  border-color: red;
+}
